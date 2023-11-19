@@ -1,0 +1,72 @@
+[
+    {
+        "name": "抖音",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/45a6bebd98a1d745.png",
+        "url": "https://www.douyin.com/user/MS4wLjABAAAAthBauB1siWQBJefyVq2U8RIc1RrIXR00Hr1aC0SU6eA"
+    },
+    {
+        "name": "快手",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/a58d66d4ea489bf8.png",
+        "url": "https://www.kuaishou.com/profile/3xdwgin29ve6v5w"
+    },
+    {
+        "name": "QQ小世界",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/3e2a88eef1c2ac2a.png",
+        "url": "https://s.xsj.qq.com/4rZb1qrd"
+    },
+    {
+        "name": "B站",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/1ac31d222eaf05a5.png",
+        "url": "https://space.bilibili.com/390126641"
+    },
+    {
+        "name": "直播间",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/deb534c34f27a23a.png",
+        "url": "https://douyu.com/762505"
+    },
+    {
+        "name": "蛋白鱼吧",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/deb534c34f27a23a.png",
+        "url": "https://yuba.douyu.com/topic/93197"
+    },
+    {
+        "name": "微博",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/661d6fa5c61f279f.png",
+        "url": "https://weibo.com/danbaiGG"
+    },
+    {
+        "name": "微博超话",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/661d6fa5c61f279f.png",
+        "url": "https://weibo.com/p/100808b714166b260e325af52199bef94a210d/super_index"
+    },
+    {
+        "name": "网易大神",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/702bd4f51584ffeb.png",
+        "url": "https://ds.163.com/user/c14eb696798b4385a56d9890f28ab65e/"
+    },
+    {
+        "name": "百度百家号",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/b52de6754478ae32.png",
+        "url": "https://author.baidu.com/home/1664491212724291"
+    },
+    {
+        "name": "爱奇艺",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/aec4bcb12e3e0b59.png",
+        "url": "https://www.iqiyi.com/u/2005274097368896/videos"
+    },
+    {
+        "name": "腾讯视频",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/8c453e919dabffbc.png",
+        "url": "https://v.qq.com/biu/creator/home?vcuid=9000004843"
+    },
+    {
+        "name": "YouTube",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/693b0ae17dc067f4.png",
+        "url": "https://www.youtube.com/channel/UCvd4uHK9pO5_7YY4ty-HCdw"
+    },
+    {
+        "name": "蛋白GG优酷",
+        "icon": "https://img.cdn.tencent-qq.cn/Yize/2023/08/284df8211423a42c.png",
+        "url": "https://www.youku.com/profile/index/?uid=UMTgwMjU3OTA0MA=="
+    }
+]
